@@ -2,7 +2,7 @@
 This Repo contains - Starter files, Coursework, Programming Assignments for the Master Algorithmic Programming Techniques Specialization Course -- offered by  UC San Diego, Coursera. ([ ----- Course Link ----- ](https://www.coursera.org/learn/algorithmic-toolbox))
 
 <h6 align="center">
-    <img src="https://lh3.googleusercontent.com/proxy/AscSd9SWBYKP5VvHHxUVQMy3w1i-zajcsslH6qvP2OKD7WHV8xMpIoE9SbDAsRXacH6abHHM2I-GH5GIMPa0fMVQQyJ8JKfQJNm2F0s" alt="Here goes an Icon!">
+    <img src="https://github.com/TSG405/Algorithmic-Toolbox-UC-San-Diego/blob/main/Icon.jpeg" alt="Here goes an Icon!">
 </h6>
 
 ## About the Course
